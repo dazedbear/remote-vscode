@@ -2,5 +2,5 @@
 self-hosted remote visual studio code with cdr/code-server
 
 ```console
-./start.sh
+sudo ./start.sh
 ```
